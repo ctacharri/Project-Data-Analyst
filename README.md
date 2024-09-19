@@ -14,7 +14,8 @@ Step Data Analysis with SQL: <br>
 2. Exploratory Data Analysis to find the insight (EDA)
 
 **Question for EDA**
-1. Is there an increasing or decreasing trend in layoffs from 2020 to 2023?
-2. Top 5 companies with the most layoffs from 2020 to 2023?
-3. Top 5 country with the most layoffs from 2020 to 2023?
+1. What is the distribution of layoffs by industry?
+2. Is there an increasing or decreasing trend in layoffs from 2020 to 2023?
+3. Top 5 companies with the most layoffs from 2020 to 2023?
+4. Top 5 country with the most layoffs from 2020 to 2023?
 
